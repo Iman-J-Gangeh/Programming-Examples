@@ -1,0 +1,1 @@
+-c in3.txt tmp.bin

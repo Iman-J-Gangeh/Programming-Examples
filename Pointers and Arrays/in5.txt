@@ -1,0 +1,3 @@
+first,last,score
+viet,7
+miya,11

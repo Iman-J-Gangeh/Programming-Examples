@@ -1,0 +1,10 @@
+drwxr-xr-x testdir
+-rw-r--r--     .hidden.txt
+-rw-r--r--     bar.txt
+drwxr-xr-x     dir
+lrwxrwxrwx         bar.txt -> ../bar.txt
+-rw-r--r--         bay.txt
+drwxr-xr-x         subdir
+-rw-r--r--             baz.txt
+-rw-r--r--     foo.txt
+lrwxrwxrwx     link -> dir/subdir/

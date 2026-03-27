@@ -1,0 +1,1 @@
+usage: ./lzw (-c | -x) SOURCE DESTINATION

@@ -1,0 +1,3 @@
+name,score
+steven,1,5,1
+austin,8,2,2

@@ -1,0 +1,3 @@
+name,score
+"Nicholas S.",8
+"Rupal T.",12

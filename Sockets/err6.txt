@@ -1,0 +1,1 @@
+usage: ./gossip [-u USERNAME] [-t TIMEOUT] PORT [HOSTNAME:PORT]

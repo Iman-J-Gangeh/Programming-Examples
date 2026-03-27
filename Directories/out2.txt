@@ -1,0 +1,8 @@
+testdir
+    bar.txt
+    dir
+        bar.txt
+        bay.txt
+        subdir
+    foo.txt
+    link

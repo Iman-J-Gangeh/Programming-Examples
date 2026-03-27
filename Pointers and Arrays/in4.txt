@@ -1,0 +1,9 @@
+q1,q2,name
+-1,-1,hayden
+-2,-3,jim
+-3,-3,jiwon
+-3,-4,steven
+-4,-4,erik
+-12,0,justin
+-14,2,parker
+-8,-8,yuri

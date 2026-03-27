@@ -1,0 +1,9 @@
+name,score
+stanley,1
+yu,1
+yusuf,2
+shelby,2
+christina,2
+jaelyn,2
+calen,3
+richa,3
